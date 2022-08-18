@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "StepDown_DCDC.kicad_prl",
+    "filename": "TestAlchitry.kicad_prl",
     "version": 3
   },
   "project": {

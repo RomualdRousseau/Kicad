@@ -1310,10 +1310,10 @@
     (property "Reference" "D1" (id 0) (at 116.84 37.7824 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1N5822" (id 1) (at 116.84 40.3224 90)
+    (property "Value" "1N5824" (id 1) (at 116.84 40.3224 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_MELF" (id 2) (at 109.855 39.37 0)
+    (property "Footprint" "Diode_SMD:D_SMA" (id 2) (at 109.855 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/88526/1n5820.pdf" (id 3) (at 114.3 39.37 0)
@@ -1445,7 +1445,7 @@
       (reference "C3") (unit 1) (value "15nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/f8a46177-c207-45e1-aa8c-9ee19c95df87"
-      (reference "D1") (unit 1) (value "1N5822") (footprint "Diode_SMD:D_MELF")
+      (reference "D1") (unit 1) (value "1N5824") (footprint "Diode_SMD:D_SMA")
     )
     (path "/6b388947-0a27-40e1-ac0d-f9ff36a31c7b"
       (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
